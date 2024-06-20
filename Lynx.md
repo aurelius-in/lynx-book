@@ -1,4 +1,6 @@
-### Chapter: Lynx's Leadership in AI: Why They Stand Out
+# Lynx
+## Leadership in AI
+### Why Lynx Stands Out
 
 #### Introduction
 
