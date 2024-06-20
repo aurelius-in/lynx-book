@@ -1,4 +1,4 @@
-## Appendix 2: Resources for Further Reading
+## Appendix B: Resources for Further Reading
 
 This appendix provides a curated list of resources for those interested in delving deeper into Artificial Intelligence (AI), machine learning, and related fields. These resources include books, academic papers, online courses, websites, and conferences.
 
