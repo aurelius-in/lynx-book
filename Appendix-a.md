@@ -1,4 +1,4 @@
-## Appendix 1: Glossary of AI Terms
+## Appendix A: Glossary of AI Terms
 
 This appendix provides a comprehensive glossary of key terms and concepts related to Artificial Intelligence (AI). Understanding these terms will help readers navigate the complex landscape of AI and enhance their grasp of the material covered in the book.
 
